@@ -1,3 +1,11 @@
 # AML_Project
 
-## python main.py
+## Environment
+
+Python
+Numpy
+Tensorflow 1.4
+
+## Command
+
+python main.py
